@@ -4,6 +4,10 @@
   "description": "custom include js script and css style for gitbook",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wiliam2015/gitbook-plugin-custom-js-css"
+  },
   "keywords": [
     "custom",
 	"custom-js-css",
@@ -18,5 +22,8 @@
   "dependencies": {
     "lodash": "4.17.4",
 	"tmp": "0.0.28"
+  },
+  "bugs": {
+	"url": "https://github.com/wiliam2015/gitbook-plugin-custom-js-css/issues"
   }
 }
